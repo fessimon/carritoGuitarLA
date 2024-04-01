@@ -9,3 +9,4 @@ useEffect
 useMemo
 y la creacion de hook personalizados.
 Se aplica state derivados.
+Proyecto creado desde curso React y TypeScript - La Guía Completa Creando +10 Proyectos - UDEMY-
